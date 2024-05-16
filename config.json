@@ -1,0 +1,16 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/cyberbullying",
+		"prod_uri":"mysql://root:@localhost/cyberbullying",
+		"fb_url":"https://facebook.com/cyberbullying",
+		"tw_url":"https://twitter.com/cyberbullying",
+		"git_url":"https://github.com/cyberbullying",
+		"blog_name":"cyberbullying",
+		"login_image":"login.jpeg",
+		"gmail_user":"demoproject58@gmail.com",
+		"gmail_password":"project@123"
+
+	}
+} 
